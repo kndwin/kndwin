@@ -1,4 +1,4 @@
-# Hi there! ![alt text]: https://www.mltav.asn.au/auslan/images/stories/hand%20waving.gif "Wave GIF"
+# Hi there! <img src="https://www.mltav.asn.au/auslan/images/stories/hand%20waving.gif" width="30px">
 
 <!--
 **kndwin/kndwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ☕ really likes coffee
 
 ## actively pursuing
-![alt text]: https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg "freeCodeCamp logo" hoping to finish up the freeCodeCamp cirriculum by the end of the year (just full stack)
-![alt text]: https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png looking into taking my first aws developer exam
+<img src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" width="30px"> hoping to finish up the freeCodeCamp cirriculum by the end of the year (just full stack)
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png" width="30px" > looking into taking my first aws developer exam
 🤓 play around with the following technologies: [deno](https://deno.land), [nextjs](httpS://nextjs.org) and [katex](https://github.com/KaTeX/KaTeX)
