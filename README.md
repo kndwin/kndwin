@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! [logo]: https://www.mltav.asn.au/auslan/images/stories/hand%20waving.gif "Wave GIF"
 
 <!--
 **kndwin/kndwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## about me
-- john 3:30
-- aspiring developer (I want to build whatever I want)
-- really likes coffee
+💬 john 3:30
+😊 aspiring developer (I want to build whatever I want)
+☕ really likes coffee
 
 ## actively pursuing
-- hoping to finish up the freeCodeCamp cirriculum by the end of the year (just full stack)
-- looking into taking my first aws developer exam
-- play around with the following technologies: deno, nextjs, tensorflow and katex
+[logo]: https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg "freeCodeCamp logo"
+hoping to finish up the freeCodeCamp cirriculum by the end of the year (just full stack)
+
+[logo]: https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png
+looking into taking my first aws developer exam
+
+🤓
+play around with the following technologies: [deno](https://deno.land), [nextjs](httpS://nextjs.org) and [katex](https://github.com/KaTeX/KaTeX)
