@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 🤓 play around with the following technologies: [deno](https://deno.land), [nextjs](httpS://nextjs.org) and [katex](https://github.com/KaTeX/KaTeX)
 
 ## reach me
-<img src='https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png' alt='twitter' height='20'> portfolio: (kndwin.dev)
+<img src='https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png' alt='twitter' height="15px"> portfolio: (kndwin.dev)
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height="15px"> twitter: @kndwin.dev
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='20'> email: me@kndwin.dev
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height="15px"> email: me@kndwin.dev
