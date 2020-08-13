@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## about me
+- john 3:30
+- aspiring developer (I want to build whatever I want)
+- really likes coffee
+
+## actively pursuing
+- hoping to finish up the freeCodeCamp cirriculum by the end of the year (just full stack)
+- looking into taking my first aws developer exam
+- play around with the following technologies: deno, nextjs, tensorflow and katex
