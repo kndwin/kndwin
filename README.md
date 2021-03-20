@@ -18,14 +18,12 @@
   <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="14px"/> Nuxtjs.
 
 - **Back-end/RDBMS:** 
-
   <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="14px"/> Node/
   <img src="https://simpleicons.org/icons/express.svg" alt="express" height="14px"/> Express, SQL (
   <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="14px"/> Postgres/
   <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="14px"/> MySQL)
 
 - **Others**: 
-
   <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="14px"/>Linux (busybox tools), 
   <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="14px"/>Jira,
   <img src="https://simpleicons.org/icons/git.svg" alt="git" height="14px"/>Git.
@@ -37,8 +35,7 @@
 - Troubleshooted/debugged support cases that touches everything Appian.
 
 	- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), 
-
-		RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
+	RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
 
 	- **Other**: AWS Cloud architecture, Networking/VPN(ipsec), Linux (SSH/busybox tools), Accessibility issues (WCAG). 
 
@@ -77,10 +74,7 @@
 ## Others
 
 - Obsessive keyboard-driven power-user 
-
   <img src="https://simpleicons.org/icons/vim.svg" alt="vim" height="14px"/> **`vim`**
-
   <img src="https://simpleicons.org/icons/archlinux.svg" alt="archlinux" height="14px"/> **`archlinux`**
 
 - This resume was built with **`kndwin/resume`**
-
