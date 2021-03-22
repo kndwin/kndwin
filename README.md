@@ -1,32 +1,33 @@
 # Kevin Nguyen
-  <img src="https://simpleicons.org/icons/github.svg" alt="github" height="14px"/>  **`@kndwin`**
-  <img src="https://simpleicons.org/icons/twitter.svg" alt="github" height="14px"/>  **`@kndwindev`**
-  <img src="https://simpleicons.org/icons/gmail.svg" alt="github" height="14px"/>  **`me@kndwin.dev`**
-  <img src="https://simpleicons.org/icons/github.svg" alt="github" height="14px"/>  **`https://kndwin.dev`** 
+  <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/>  **`@kndwin`**
+  <img src="https://simpleicons.org/icons/twitter.svg" alt="github" height="15px"/>  **`@kndwindev`**
+  <img src="https://simpleicons.org/icons/gmail.svg" alt="github" height="15px"/>  **`me@kndwin.dev`**
+  <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/>  **`https://kndwin.dev`** 
 
 ## Skills
 
 - **Front-end:** 
-  <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="14px"/> HTML, 
-  <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="14px"/> CSS/
-  <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="14px"/> SASS, 
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="14px"/> JavaScript/
-  <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="14px"/> TypeScript, 
-  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="14px"/> React /
-  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="14px"/> Nextjs.
-  <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="react" height="14px"/> Vue /
-  <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="14px"/> Nuxtjs.
+  <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="15px"/> HTML, 
+  <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="15px"/> CSS/
+  <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="15px"/> SASS, 
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="15px"/> JavaScript/
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="15px"/> TypeScript, 
+  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React /
+  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="15px"/> Nextjs.
+  <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="react" height="15px"/> Vue /
+  <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="15px"/> Nuxtjs.
 
 - **Back-end/RDBMS:** 
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="14px"/> Node/
-  <img src="https://simpleicons.org/icons/express.svg" alt="express" height="14px"/> Express, SQL (
-  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="14px"/> Postgres/
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="14px"/> MySQL)
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="15px"/> Node/
+  <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express, SQL (
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres/
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL)
 
 - **Others**: 
-  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="14px"/>Linux (busybox tools), 
-  <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="14px"/>Jira,
-  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="14px"/>Git.
+  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux (busybox tools), 
+  <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
+  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/>Git.
+  <img src="https://simpleicons.org/icons/googlemaps.svg" alt="googlemaps" height="15px"/>Google Maps
 
 ## Experience
 
@@ -57,24 +58,30 @@
 
 ## Projects
 
-### `kndwin/decoco` Landing page for decoco
-
+### Landing page for decoco `kndwin/decoco` <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="googlemaps" height="20px"/>
 - Built a responsive web application using front-end framework Nextjs with *Typescript*, customized with  *Sass*  and continously deployed with Github and Vercel.
 
 - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
 
 - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
 
-### `kndwin/min` Minimal markdown editor 
+### Minimal markdown editor `kndwin/min` <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/>  
+`kndwin/min` <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/>  
 
 - **Front-end**: Nextjs framework, authentication with next-auth.js (JWT and OAuth) and communicating with back-end through raw HTTPS GraphQL requests.
 
 - **Back-end**: Node/Express GrahpQL server using TypeORM to perform CRUD operations to the Postgres RDBMS.
 
+### Jobs dashboard `kndwin/jobs` <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> `kndwin/scraps` <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
+
+- **Front-end**: Nuxtjs framework.
+ 
+- **Back-end**: Node/Express using Redis to cache data for faster TypeORM to perform CRUD operations to the Postgres RDBMS.
+
 ## Others
 
 - Obsessive keyboard-driven power-user 
-  <img src="https://simpleicons.org/icons/vim.svg" alt="vim" height="14px"/> **`vim`**
-  <img src="https://simpleicons.org/icons/archlinux.svg" alt="archlinux" height="14px"/> **`archlinux`**
+  <img src="https://simpleicons.org/icons/vim.svg" alt="vim" height="15px"/> **`vim`**
+  <img src="https://simpleicons.org/icons/archlinux.svg" alt="archlinux" height="15px"/> **`archlinux`**
 
 - This resume was built with **`kndwin/resume`**
