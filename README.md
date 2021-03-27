@@ -14,13 +14,11 @@
   <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="15px"/> Nextjs.
   <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="react" height="15px"/> Vue /
   <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="15px"/> Nuxtjs.
-
 - **Back-end/RDBMS:** 
   <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="15px"/> Node/
   <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express, SQL (
   <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres/
   <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL)
-
 - **Others**: 
   <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux (busybox tools), 
   <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
