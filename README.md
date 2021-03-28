@@ -78,5 +78,4 @@
 - 🔨  Built resume with 
 <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/resume` 
 which uses the markdown generated from 
-<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/>
-`kndwin/kndwin`
+<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/kndwin`
