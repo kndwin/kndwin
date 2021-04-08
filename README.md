@@ -3,7 +3,7 @@
   <img src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="15px"/>`@kndwindev`
   <img src="https://img.icons8.com/windows/32/000000/domain.png" alt="portfolio" height="15px">`https://kndwin.dev`
   <img src="https://img.icons8.com/dotty/80/000000/filled-sent.png" alt="email" height="15px"/> `me@kndwin.dev`
-## Skills
+## 🔨 Skills
 - **Front-end:** 
   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="15px"/> HTML, 
   <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="15px"/> CSS/
@@ -18,17 +18,21 @@
   <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="15px"/> Node/
   <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express, SQL (
   <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres/
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL)
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL), 
+	<img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="15px"/> Graphql
+
 - **Others**: 
   <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux (busybox tools), 
   <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
   <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/>Git,
-  <img src="https://simpleicons.org/icons/googlemaps.svg" alt="git" height="15px"/>Google Maps.
-  <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/>AWS.
+  <img src="https://simpleicons.org/icons/googlecloud.svg" alt="git" height="15px"/>Google cloud, 
+  <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/>AWS,
+  <img src="https://simpleicons.org/icons/apachetomcat.svg" alt="git" height="15px"/>Apache tomcat,
   <img src="https://simpleicons.org/icons/figma.svg" alt="git" height="15px"/>Figma.
 
-## Experience
-### Appian - Solution Engineer (Jan 2020 - Current)
+## 💻 Work experience
+### Appian - Solution Engineer (Jan 2020 - Current) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/>
+
 - Resolved support cases that touches everything Appian.
 	- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), 
 		RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
@@ -38,7 +42,13 @@
 - Consolidated a skills matrix to **identify technical proficiency** over different categories (Performance, Cloud, Integrations and Design and Infrastructure) and was adopted by the APAC team.
 - Wrote **5 technical articles** with to corporate knowledge base.
 
-## Education
+## ✋ Other relevant experience
+### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
+
+- Built a logging module using log4js, google-cloud/logging and nuxtjs modules
+- Built Graphql queries to fetch data from server.
+
+## 📚 Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
 - Majoring in Mechatronics and Information Systems (Credit average).
 - **Honours thesis (Distinction)**: Integrating communication platforms between different operating systems.
@@ -46,8 +56,14 @@
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
 
-## Projects
-### Landing page  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> 
+
+
+## ✍  Projects
+### Landing page  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/>
+- **Others**: 
+  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux (busybox tools), 
+  <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
+  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/>Git,
 - **Front-end**: <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/decoco` https://decoco.com.au
     -	Built a responsive web application using front-end framework Nextjs with Typescript, customized with SASS and continously deployed with Github and Vercel.
     - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
@@ -59,7 +75,7 @@
     - Built univeral (SSR) Nustjs web app using axios to fetch backend API. 
     - Added Typescript and SASS support.
 - **Back-end** -
-<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/scraps` https://jobscraps.herokuapp.com
+<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/scraps`
     - Built microservice using Node/Express to route API's and provide raw JSON data.
     - Implemented Redis to cache data for faster response time.
     - Developed with TypeORM to perform CRUD operations to Postgres RDBMS.
@@ -71,7 +87,7 @@
 - **Back-end (wip):** <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/min-server`
     - Working on persisting data on a backend with Postgres/Node/Express/TypeORM.
 
-## Others
+## 📜 Others
 - 🤓 Unix custimization geek (vim/i3-gaps/qutebrowser/arch and gruvbox!).
 - ✍ Currently studying for the AWS Associate developer certificate.
 - ☕ Love drinking cold drip coffee.
