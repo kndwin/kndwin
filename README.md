@@ -56,18 +56,7 @@
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
 
-
-
 ## ✍  Projects
-### Landing page  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/>
-- **Others**: 
-  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux (busybox tools), 
-  <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
-  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/>Git,
-- **Front-end**: <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/decoco` https://decoco.com.au
-    -	Built a responsive web application using front-end framework Nextjs with Typescript, customized with SASS and continously deployed with Github and Vercel.
-    - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
-    - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
 
 ### Jobs dashboard <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
 - **Front-end** - 
@@ -86,6 +75,12 @@
     - Incorporated a React wrapped SimpleMDEditor component to allow markdown formatting in-line.
 - **Back-end (wip):** <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/min-server`
     - Working on persisting data on a backend with Postgres/Node/Express/TypeORM.
+
+### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/>
+- **Front-end**: <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/decoco` https://decoco.com.au
+    -	Built a responsive web application using front-end framework Nextjs with Typescript, customized with SASS and continously deployed with Github and Vercel.
+    - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
+    - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
 
 ## 📜 Others
 - 🤓 Unix custimization geek (vim/i3-gaps/qutebrowser/arch and gruvbox!).
