@@ -79,8 +79,8 @@
     - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
 
 ## 📜 Others
-- 🤓 Unix custimization geek <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> and <kbd>gruvbox</kbd>.
+- 🤓 Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
 - ✍ Currently studying for the AWS Associate developer certificate.
 - ☕ Love drinking cold drip coffee.
 - 🔨  Built resume with 
-<kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> which uses the markdown generated from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
+<kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> with markdown from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
