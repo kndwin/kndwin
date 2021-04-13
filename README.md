@@ -4,7 +4,7 @@
 	<kbd> **Portfolio:** https://kndwin.dev</kbd>
 	<kbd> **Email:** me@kndwin.dev</kbd>
 
-## 🔨 Toolbox
+## Toolbox
 - **Front-end:** 
   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="15px"/> HTML, 
   <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="15px"/> CSS.
@@ -28,7 +28,7 @@
   <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/>AWS,
   <img src="https://simpleicons.org/icons/figma.svg" alt="git" height="15px"/>Figma.
 
-## 💻 Work experience
+## Work experience
 ### Appian - Solution Engineer (Jan 2020 - Current) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/>
 - Resolved support cases that touches everything Appian.
 	- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), 
@@ -39,13 +39,13 @@
 - Consolidated a skills matrix to **identify technical proficiency** over different categories (Performance, Cloud, Integrations and Design and Infrastructure) and was adopted by the APAC team.
 - Wrote **5 technical articles** to corporate knowledge base.
 
-## ✋ Relevant volunteering experience
+## Relevant volunteering experience
 ### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
 
 - Building logging module with log4js, google-cloud/logging and nuxtjs  modules
 - Querying components with apollo from graphql server.
 
-## 📚 Education
+## Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
 - Majored in **Mechatronics** and **Information Systems** (Credit average).
 - **Honours thesis** (Distinction): Integrating communication platforms between different operating systems.
@@ -53,7 +53,7 @@
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
 
-## ✍  Projects
+## Projects
 ### Jobs dashboard <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
 - <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/jobs</kbd> <kbd>https://jobs-phi.vercel.app</kbd>
     - Built univeral (SSR) Nuxtjs web app using axios with graphql format to fetch backend API. 
@@ -78,9 +78,9 @@
     - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
     - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
 
-## 📜 Others
-- 🤓 Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
-- ✍ Currently studying for the AWS Associate developer certificate.
-- ☕ Love drinking cold drip coffee.
-- 🔨  Built resume with 
+## Others
+- Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
+- Currently studying for the AWS Associate developer certificate.
+- Love drinking cold drip coffee.
+-  Built resume with 
 <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> with markdown from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
