@@ -55,24 +55,25 @@
 
 ## ✍  Projects
 ### Jobs dashboard <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
-- ` Front-end ` <kbd>**GitHub**: kndwin/jobs</kbd> <kbd>**Site**:https://jobs-phi.vercel.app</kbd>
+- <kbd>**Front-end**</kbd> <kbd>**GitHub**: kndwin/jobs</kbd> <kbd>**Site**:https://jobs-phi.vercel.app</kbd>
     - Built univeral (SSR) Nuxtjs web app using axios to fetch backend API. 
     - Added Typescript and SASS support.
-- ` Back-end ` <kbd>**GitHub**: kndwin/scraps</kbd>
+- <kbd>**Back-end**</kbd> <kbd>**GitHub**: kndwin/scraps</kbd>
     - Built microservice using Node/Express to route API's and provide raw JSON data.
     - Implemented Redis to cache data for faster response time.
     - Developed with TypeORM to perform CRUD operations to Postgres RDBMS.
 
 ### Minimal markdown editor <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> 
-- `Front-end` <kbd>**GitHub**: kndwin/min</kbd> <kbd>**Site**: https://minmd.vercel.app </kbd>
+- <kbd>**Front-end**</kbd> <kbd>**GitHub**: kndwin/min</kbd> <kbd>**Site**: https://minmd.vercel.app </kbd>
     - Built on Nextjs framework, authentication with next-auth.js (JWT and OAuth).
     - Incorporated a React wrapped SimpleMDEditor component to allow markdown formatting in-line.
-- `Back-end`     <kbd>**GitHub**: kndwin/min-server</kbd>
+- <kbd>**Back-end**</kbd>     <kbd>**GitHub**: kndwin/min-server</kbd>
     - Persist markdown and user data on a backend with Postgres and TypeORM.
     - Developed RESTful API's with Express and Nodejs.
 
 ### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> 
-- `Front-end` <kbd>**GitHub**: kndwin/decoco</kbd> <kbd>**Site**: https://decoco.com.au</kbd>
+- <kbd>**Front-end**</kbd> <kbd>**GitHub**: kndwin/decoco</kbd> <kbd>**Site**: https://decoco.com.au</kbd>
+
     -	Built a responsive web application using front-end framework Nextjs with Typescript, customized with SASS and continously deployed with Github and Vercel.
     - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
     - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
@@ -82,6 +83,4 @@
 - ✍ Currently studying for the AWS Associate developer certificate.
 - ☕ Love drinking cold drip coffee.
 - 🔨  Built resume with 
-<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/resume` 
-which uses the markdown generated from 
-<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/kndwin`
+<kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> which uses the markdown generated from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> `kndwin/kndwin` </kbd>
