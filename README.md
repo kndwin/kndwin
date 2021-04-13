@@ -7,25 +7,24 @@
 ## 🔨 Toolbox
 - **Front-end:** 
   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="15px"/> HTML, 
-  <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="15px"/> CSS/
+  <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="15px"/> CSS.
   <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="15px"/> SASS, 
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="15px"/> JavaScript/
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="15px"/> JavaScript.
   <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="15px"/> TypeScript, 
-  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React /
+  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React.
   <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="15px"/> Nextjs.
-  <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="react" height="15px"/> Vue /
+  <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="react" height="15px"/> Vue.
   <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="15px"/> Nuxtjs.
 - **Back-end/RDBMS:** 
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="15px"/> Node/
-  <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express, SQL (
-  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres/
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL), 
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="15px"/> Node.
+  <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express,
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres.
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL.
 	<img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="15px"/> Graphql
 - **Others**: 
   <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux/Unix, 
   <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
   <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/>Git,
-  <img src="https://simpleicons.org/icons/googlecloud.svg" alt="git" height="15px"/>Google cloud, 
   <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/>AWS,
   <img src="https://simpleicons.org/icons/figma.svg" alt="git" height="15px"/>Figma.
 
@@ -38,13 +37,13 @@
 - **Awarded "Customer Impact"** award for resolving an esculated customer case involving corrupted Kafka logs.
 - **Mentored 2 high performing UNSW students** through 12 weeks long CSESOC program and provided assistance through identifying strengths and providing support for side-projects and career advise.
 - Consolidated a skills matrix to **identify technical proficiency** over different categories (Performance, Cloud, Integrations and Design and Infrastructure) and was adopted by the APAC team.
-- Wrote **5 technical articles** with to corporate knowledge base.
+- Wrote **5 technical articles** to corporate knowledge base.
 
 ## ✋ Relevant volunteering experience
 ### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
 
-- Built logging module with log4js, google-cloud/logging and nuxtjs  modules
-- Built graphql queries to fetch data from server.
+- Building logging module with log4js, google-cloud/logging and nuxtjs  modules
+- Querying components with apollo from graphql server.
 
 ## 📚 Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
@@ -57,16 +56,16 @@
 ## ✍  Projects
 ### Jobs dashboard <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
 - <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/jobs</kbd> <kbd>https://jobs-phi.vercel.app</kbd>
-    - Built univeral (SSR) Nuxtjs web app using axios to fetch backend API. 
+    - Built univeral (SSR) Nuxtjs web app using axios with graphql format to fetch backend API. 
     - Added Typescript and SASS support.
 - <kbd>**Back-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/scraps</kbd>
-    - Built microservice using Node/Express to route API's and provide raw JSON data.
+    - Built microservice using Node/Express/Graphql to get and mutate data.
     - Implemented Redis to cache data for faster response time.
     - Developed with TypeORM to perform CRUD operations to Postgres RDBMS.
 
 ### Minimal markdown editor <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> 
 - <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min</kbd> <kbd>https://minmd.vercel.app</kbd>
-    - Built on Nextjs framework, authentication with next-auth.js (JWT and OAuth).
+    - Built on Nextjs framework, authentication with next-auth.js (Github OAuth).
     - Incorporated a React wrapped SimpleMDEditor component to allow markdown formatting in-line.
 - <kbd>**Back-end**</kbd>     <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min-server</kbd>
     - Persist markdown and user data on a backend with Postgres and TypeORM.
@@ -80,7 +79,7 @@
     - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
 
 ## 📜 Others
-- 🤓 Unix custimization geek (vim/i3-gaps/qutebrowser/arch and gruvbox!).
+- 🤓 Unix custimization geek <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> and <kbd>gruvbox</kbd>.
 - ✍ Currently studying for the AWS Associate developer certificate.
 - ☕ Love drinking cold drip coffee.
 - 🔨  Built resume with 
