@@ -1,9 +1,9 @@
 # Kevin Nguyen
-  <kbd> **GitHub:** @kndwin</kbd> 
-	<kbd> **Twitter:** @kndwindev </kbd>
-	<kbd> **Portfolio:** https://kndwin.dev </kbd>
+  <kbd> **GitHub:** @kndwin</kbd>
+	<kbd> **Twitter:** @kndwindev</kbd>
+	<kbd> **Portfolio:** https://kndwin.dev</kbd>
 	<kbd> **Email:** me@kndwin.dev</kbd>
-## 🔨 Skills
+## 🔨 Toolbox
 - **Front-end:** 
   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="15px"/> HTML, 
   <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="15px"/> CSS/
@@ -39,11 +39,11 @@
 - Consolidated a skills matrix to **identify technical proficiency** over different categories (Performance, Cloud, Integrations and Design and Infrastructure) and was adopted by the APAC team.
 - Wrote **5 technical articles** with to corporate knowledge base.
 
-## ✋ Other relevant experience
+## ✋ Relevant volunteering experience
 ### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
 
-- Built logging module with <kbd>log4js</kbd>, <kbd>google-cloud/logging</kbd> and <kbd>nuxtjs</kbd>  modules
-- Built Graphql queries to fetch data from server.
+- Built logging module with log4js, google-cloud/logging and nuxtjs  modules
+- Built graphql queries to fetch data from server.
 
 ## 📚 Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
@@ -55,25 +55,24 @@
 
 ## ✍  Projects
 ### Jobs dashboard <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
-- **Front-end** - 
-<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/jobs` https://jobs-phi.vercel.app
-    - Built univeral (SSR) Nustjs web app using axios to fetch backend API. 
+- ` Front-end ` <kbd>**GitHub**: kndwin/jobs</kbd> <kbd>**Site**:https://jobs-phi.vercel.app</kbd>
+    - Built univeral (SSR) Nuxtjs web app using axios to fetch backend API. 
     - Added Typescript and SASS support.
-- **Back-end** -
-<img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/scraps`
+- ` Back-end ` <kbd>**GitHub**: kndwin/scraps</kbd>
     - Built microservice using Node/Express to route API's and provide raw JSON data.
     - Implemented Redis to cache data for faster response time.
     - Developed with TypeORM to perform CRUD operations to Postgres RDBMS.
 
-### Minimal markdown editor <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> 
-- **Front-end**: <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/min` https://minmd.vercel.app
+### Minimal markdown editor <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> 
+- `Front-end` <kbd>**GitHub**: kndwin/min</kbd> <kbd>**Site**: https://minmd.vercel.app </kbd>
     - Built on Nextjs framework, authentication with next-auth.js (JWT and OAuth).
     - Incorporated a React wrapped SimpleMDEditor component to allow markdown formatting in-line.
-- **Back-end (wip):** <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/min-server`
-    - Working on persisting data on a backend with Postgres/Node/Express/TypeORM.
+- `Back-end`     <kbd>**GitHub**: kndwin/min-server</kbd>
+    - Persist markdown and user data on a backend with Postgres and TypeORM.
+    - Developed RESTful API's with Express and Nodejs.
 
-### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> <kbd>**GitHub**: kndwin/decoco</kbd>  <kbd>**Site**: https://decoco.com.au</kbd>
-- **Front-end**:  
+### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> 
+- `Front-end` <kbd>**GitHub**: kndwin/decoco</kbd> <kbd>**Site**: https://decoco.com.au</kbd>
     -	Built a responsive web application using front-end framework Nextjs with Typescript, customized with SASS and continously deployed with Github and Vercel.
     - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
     - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
