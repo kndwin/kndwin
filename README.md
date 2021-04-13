@@ -1,8 +1,8 @@
 # Kevin Nguyen
-  <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/>`@kndwin` 
-  <img src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="15px"/>`@kndwindev`
-  <img src="https://img.icons8.com/windows/32/000000/domain.png" alt="portfolio" height="15px">`https://kndwin.dev`
-  <img src="https://img.icons8.com/dotty/80/000000/filled-sent.png" alt="email" height="15px"/> `me@kndwin.dev`
+  <kbd> **GitHub:** @kndwin</kbd> 
+	<kbd> **Twitter:** @kndwindev </kbd>
+	<kbd> **Portfolio:** https://kndwin.dev </kbd>
+	<kbd> **Email:** me@kndwin.dev</kbd>
 ## 🔨 Skills
 - **Front-end:** 
   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="15px"/> HTML, 
@@ -20,19 +20,16 @@
   <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres/
   <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL), 
 	<img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="15px"/> Graphql
-
 - **Others**: 
-  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux (busybox tools), 
+  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/>Linux/Unix, 
   <img src="https://simpleicons.org/icons/jirasoftware.svg" alt="jira" height="15px"/>Jira,
   <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/>Git,
   <img src="https://simpleicons.org/icons/googlecloud.svg" alt="git" height="15px"/>Google cloud, 
   <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/>AWS,
-  <img src="https://simpleicons.org/icons/apachetomcat.svg" alt="git" height="15px"/>Apache tomcat,
   <img src="https://simpleicons.org/icons/figma.svg" alt="git" height="15px"/>Figma.
 
 ## 💻 Work experience
 ### Appian - Solution Engineer (Jan 2020 - Current) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/>
-
 - Resolved support cases that touches everything Appian.
 	- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), 
 		RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
@@ -45,19 +42,18 @@
 ## ✋ Other relevant experience
 ### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
 
-- Built a logging module using log4js, google-cloud/logging and nuxtjs modules
+- Built logging module with <kbd>log4js</kbd>, <kbd>google-cloud/logging</kbd> and <kbd>nuxtjs</kbd>  modules
 - Built Graphql queries to fetch data from server.
 
 ## 📚 Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
-- Majoring in Mechatronics and Information Systems (Credit average).
-- **Honours thesis (Distinction)**: Integrating communication platforms between different operating systems.
+- Majored in **Mechatronics** and **Information Systems** (Credit average).
+- **Honours thesis** (Distinction): Integrating communication platforms between different operating systems.
 
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
 
 ## ✍  Projects
-
 ### Jobs dashboard <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="20px"/>
 - **Front-end** - 
 <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/jobs` https://jobs-phi.vercel.app
@@ -76,8 +72,8 @@
 - **Back-end (wip):** <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/min-server`
     - Working on persisting data on a backend with Postgres/Node/Express/TypeORM.
 
-### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/>
-- **Front-end**: <img src="https://simpleicons.org/icons/github.svg" alt="github" height="15px"/> `kndwin/decoco` https://decoco.com.au
+### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> <kbd>**GitHub**: kndwin/decoco</kbd>  <kbd>**Site**: https://decoco.com.au</kbd>
+- **Front-end**:  
     -	Built a responsive web application using front-end framework Nextjs with Typescript, customized with SASS and continously deployed with Github and Vercel.
     - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
     - Re-used components, ultilised SASS modules to avoid name conflicts and integrated 3rd party APIs such as Google maps and Emailjs.
