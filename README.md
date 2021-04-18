@@ -42,25 +42,34 @@
 ## Volunteering experience
 ### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
 
-- Building logging module with log4js, google-cloud/logging and nuxtjs  modules
-- Querying components with apollo from graphql server.
+- Building logging module with log4js, google-cloud/logging and nuxtjs.
 
 ## Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
 - Majored in **Mechatronics** and **Information Systems** (Credit average).
 - **Honours thesis** (Distinction): Integrating communication platforms between different operating systems.
 
+
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
+
+## Certifications
+### FreeCodeCamp 
+- Completed 4 certificate, each representing 300 hours of coursework.
+- These include: 
+<kbd>Responsive Web Design</kbd>
+<kbd>JavaScript Algorithms and Data Structures</kbd>
+<kbd>Front End Libraries</kbd>
+<kbd>APIs & Microservices</kbd>
 
 ## Projects
 ### Minimal markdown editor <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> 
 - <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min</kbd> <kbd>https://minmd.vercel.app</kbd>
-    - Built on Nextjs framework, authentication with next-auth.js (Github OAuth).
+    - Built on Nextjs framework, authentication with next-auth.js (Github OAuth and on-premise credentials).
     - Incorporated a React wrapped SimpleMDEditor component to allow markdown formatting in-line.
 - <kbd>**Back-end**</kbd>     <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min-server</kbd>
     - (WIP) Persist markdown and user data on a backend with Postgres and TypeORM.
-    - Developed RESTful API's with Express and Nodejs.
+    - Developed RESTful API's with Graphql and Nodejs.
 
 ### De-coco <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> 
 - <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/decoco</kbd> <kbd>https://decoco.com.au</kbd>
@@ -80,7 +89,7 @@
 
 ## Others
 - Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
-- Currently studying for the AWS Associate developer certificate.
+- Currently studying for the AWS Associate developer certificate (exam in 28 Apr, 2020)
 - Love drinking cold drip coffee.
 -  Built resume with 
 <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> with markdown from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
