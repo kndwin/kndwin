@@ -59,15 +59,6 @@
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
 
-### FreeCodeCamp 
-- Completed 4 certificate, each representing 300 hours of coursework.
-- These include: 
-<kbd>Responsive Web Design</kbd>
-<kbd>JavaScript Algorithms and Data Structures</kbd>
-<br />
-<kbd>Front End Libraries</kbd>
-<kbd>APIs & Microservices</kbd>
-
 ### Amazon Web Service
 - Completed <kbd>AWS Deverloper Associate</kbd> certificate with a score of 905/1000.
 
@@ -104,8 +95,6 @@
     - Implemented Redis (lazy caching) to cache data for faster response time.
     - Web scrapped through different job lobs through Pupputeer.
     - Designed RESTful API's with Express and Nodejs.
-- <kbd>**DevOps**</kbd>
-    - Implementing CI/CD with AWS CodePipeline and Elastic Beanstalk.
 
 ## Others
 - Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
