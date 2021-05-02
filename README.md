@@ -41,26 +41,33 @@
 
 ## Volunteering experience
 ### Global Record Networking - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud" height="20px"/>  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="20px"/>
+- Building logging module with nuxtjs plugins to write standardised logging to Google Cloud Logging.
+- Researching analytics integration with Google Tags Manager.
+- Utilizing Git for version control, GitLab for remote repository, Pivotal Tracker for issue tracking and Slack for communication.
 
-- Building logging module with log4js, google-cloud/logging and nuxtjs.
+### Pitbull BSC - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nuxt-dot-js.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonaws" height="20px"/>  
+- Built Telegram price bot with AWS Lambda.
+- Re-designing existing website with Nuxtjs, integrating live-graphs, blogging capabilities and user authentication / authorization.
 
 ## Education
 ###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
 - Majored in **Mechatronics** and **Information Systems** (Credit average).
 - **Honours thesis** (Distinction): Integrating communication platforms between different operating systems.
 
-
 <div style="page-break-before: always"></div>
 <div style="page-break-after: always"></div>
 
-## Certifications
+## Certifications and Training
 ### FreeCodeCamp 
 - Completed 4 certificate, each representing 300 hours of coursework.
 - These include: 
 <kbd>Responsive Web Design</kbd>
 <kbd>JavaScript Algorithms and Data Structures</kbd>
+<br />
 <kbd>Front End Libraries</kbd>
 <kbd>APIs & Microservices</kbd>
+### Amazon Web Service
+- Completed AWS Deverloper certificate with a score of 905/1000.
 
 ## Projects
 ### Minimal markdown editor <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> 
@@ -89,7 +96,6 @@
 
 ## Others
 - Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
-- Currently studying for the AWS Associate developer certificate (exam in 28 Apr, 2020)
 - Love drinking cold drip coffee.
 -  Built resume with 
 <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> with markdown from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
