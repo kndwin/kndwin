@@ -1,8 +1,8 @@
 # Kevin Nguyen
   <kbd> **GitHub:** @kndwin</kbd>
-	<kbd> **Twitter:** @kndwindev</kbd>
-	<kbd> **Portfolio:** https://kndwin.dev</kbd>
-	<kbd> **Email:** me@kndwin.dev</kbd>
+  <kbd> **Portfolio:** https://kndwin.dev</kbd>
+  <kbd> **Email:** me@kndwin.dev</kbd>
+  <kbd> ** Phone:** 0421606978 </kbd>
 
 ## Toolbox
 - **Front-end:** 
