@@ -9,17 +9,19 @@
   <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="15px"/> SASS
   <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="15px"/> TypeScript
   <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React
+  <img src="https://simpleicons.org/icons/chakraui.svg" alt="chakraui" height="15px"/> Chakra UI
   <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="15px"/> Nextjs
-- **Back-end/RDBMS:** 
+- **Back-end:** 
   <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="15px"/> Node
   <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express
   <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL
-- **Others**: 
-  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/> Linux
-  <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" height="15px"/> Bash
-  <img src="https://simpleicons.org/icons/solidity.svg" alt="git" height="15px"/> Solidity
-  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/> Git
+- **Devops:** 
   <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/> AWS
+  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/> Git
+  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/> Linux
+- **Others**: 
+  <img src="https://simpleicons.org/icons/solidity.svg" alt="git" height="15px"/> Solidity
+  <img src="https://simpleicons.org/icons/threedotjs.svg" alt="git" height="15px"/> Three.js
 
 ## Work experience
 ### Appian - Solution Engineer (Jan 2020 - Current) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" height="20px"/>
@@ -27,7 +29,6 @@
 	- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), 
 		RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
 	- **Other**: AWS Cloud architecture, Networking/VPN(ipsec), Linux (SSH/busybox tools), Accessibility issues (WCAG), Resource contentions (CPU/Memory/Threads).
-- **Received "Customer Impact"** award for resolving a case involving corrupted Kafka logs.
 
 ## Volunteering experience
 ### Pitbull BSC - Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" height="20px"/> <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonaws" height="20px"/>  
@@ -51,20 +52,20 @@
 <div style="page-break-after: always"></div>
 
 ## Projects
-### Minimal markdown editor <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/express.svg" alt="express" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="express" height="20px"/>
-- <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min</kbd> <kbd>https://minmd.vercel.app</kbd>
-    - Built with Nextjs and implemented authentication with next-auth.js (Github OAuth and on-premise credentials).
-    - Incorporated SimpleMDEditor component to allow markdown formatting in-line.
-    - Designed API calls with GraphQL using the 'graphql-request' library.
+### Jobs dashboard <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/express.svg" alt="express" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/>
+<kbd>https://jobs.kndwin.dev</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/jobs</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/jobs-server</kbd>
+  - Built search functionality with fuse.js, design library with Geist UI and NextJS.
+  - Implemented backed with Redis to cache latest jobs, Postgres to store user data and Nodejs / Pupputeer to scrap Indeed job board.
+  - Deployed front-end on Vercel and back-end on Railway.
 
-### De-coco <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/googlemaps.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/> <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="20px"/>
-- <kbd>**Front-end**</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/decoco</kbd> <kbd>https://decoco.com.au</kbd>
-    -	Built a responsive web application using Nextjs with Typescript, customized with SASS modules using nested classes and re-used React components.
-    - Achieved Lighthouse score of over 90 by optimizing images through .webp format, making it acccessible with alternative text and improved SEO with "next/header" component.
-    - Integrated third-party APIs such as Google maps to view store location and Emailjs to send form to business email.
+### Markdown editor <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/>  
+<kbd>https://min.kndwin.dev</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min</kbd>
+  - Built with Nextjs and implemented authentication with next-auth.js (Github OAuth and on-premise credentials).
+  - Incorporated SimpleMDEditor, ReactMarkdown and react-syntax-highlighting to create editor/preview experience.
 
 ## Others
-- Unix custimization geek: <kbd>vim</kbd> <kbd>i3-gaps</kbd> <kbd>qutebrowser</kbd> <kbd>arch</kbd> <kbd>gruvbox</kbd>
+- Good at Tetris Battle.
+- Currently studying for LFCS and CKA.
 - Love drinking cold drip coffee.
 -  Built resume with 
 <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> with markdown from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
