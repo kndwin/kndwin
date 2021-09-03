@@ -15,6 +15,7 @@
   <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="15px"/> Node
   <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express
   <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> MySQL
+  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="15px"/> MySQL
 - **Devops:** 
   <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/> AWS
   <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/> Git
@@ -24,7 +25,12 @@
   <img src="https://simpleicons.org/icons/threedotjs.svg" alt="git" height="15px"/> Three.js
 
 ## Work experience
-### Appian - Solution Engineer (Jan 2020 - Current) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" height="20px"/>
+### Atelier - Full-stack Developer (Aug 2020 - Current) <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/nodejs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/>
+- Build out front-end UI using reuseable components and SASS
+- Connect with backend using Apollo Client and GraphQL endpoint
+- Fixed backend code (Nodejs/Apollo Server) to work with front-end
+- 
+### Appian - Solution Engineer (Jan 2020 - Jul 2021) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" height="20px"/>
 - Resolved support cases that touches everything Appian.
 	- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), 
 		RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
