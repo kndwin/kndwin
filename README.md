@@ -24,7 +24,7 @@
   <img src="https://simpleicons.org/icons/threedotjs.svg" alt="git" height="15px"/> Three.js
 
 ## Work experience
-### Atelier - Full-stack Developer (Aug 2020 - Current) <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/>
+### Atelier - Full-stack Developer (Aug 2021 - Current) <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/>
 - Build out front-end UI using reuseable components and SASS
 - Connect with backend using Apollo Client and GraphQL endpoint
 - Fixed backend code (Nodejs/Apollo Server) to work with front-end
