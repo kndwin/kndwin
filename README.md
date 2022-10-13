@@ -1,30 +1,40 @@
 # Kevin Nguyen
   <kbd> **GitHub:** @kndwin</kbd>
-  <kbd> **Portfolio:** https://kndwin.dev</kbd>
-  <kbd> **Email:** me@kndwin.dev</kbd>
+  <kbd> **Portfolio:** https://kndwin.vercel.app</kbd>
+  <kbd> **Email:** tnkevino@gmail.com</kbd>
   <kbd> **Phone:** 0421606978 </kbd>
 
 ## Toolbox
 - **Front-end:** 
-  <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="15px"/> SASS
+  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="sass" height="15px"/> TailwindCSS
   <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="15px"/> TypeScript
   <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React
+  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React Native
+  <img src="https://simpleicons.org/icons/expo.svg" alt="react" height="15px"/> Expo
+  <img src="https://simpleicons.org/icons/reactquery.svg" alt="react" height="15px"/> React Query
   <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="15px"/> Nextjs
 - **Back-end:** 
   <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="15px"/> Node
   <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="15px"/> Postgres
+  <img src="https://simpleicons.org/icons/trpc.svg" alt="trpc" height="15px"/> tRPC
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres
   <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="15px"/> GraphQL
   <img src="https://simpleicons.org/icons/prisma.svg" alt="graphql" height="15px"/> Prisma
 - **Others**: 
   <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/> AWS
   <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/> Git
+  <img src="https://simpleicons.org/icons/githubactions.svg" alt="githubaction" height="15px"/> Github Action
   <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/> Linux
-  <img src="https://simpleicons.org/icons/solidity.svg" alt="git" height="15px"/> Solidity
   <img src="https://simpleicons.org/icons/threedotjs.svg" alt="git" height="15px"/> Three.js
 
 ## Work experience
-### Atelier - Full-stack Developer (Aug 2021 - Current) <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/>
+### Mirvac - Front-end Engineer (Jan 2022 - Current)
+- Led the effort to ensure testing of RBAC protected API's to be pushed to production
+- Maintain and extend web app using react-query, Material UI, zustand, Typescript 
+- Improved CI/CD by updating Github Actions and advocating for trunk-based gitflow.
+- Upskilled in React Native / Expo and helped with the flagship mobile app.
+
+### Atelier - Full-stack Developer (Aug 2021 - Jan 2022) <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/>
 - Built out front-end using reuseable components, SASS and Apollo client.
 - Built out backend using Prisma, Nexus and Apollo server to ensure CRUD operations.
 - Built Cypress end-to-end testing and integrating with Circle CI to ensure testing on every branch push.
@@ -58,20 +68,25 @@
 <div style="page-break-after: always"></div>
 
 ## Projects
-### Jobs dashboard <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/postgresql.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/express.svg" alt="express" height="20px"/> <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="20px"/>
-<kbd>https://jobs.kndwin.dev</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/jobs</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/jobs-server</kbd>
-  - Built search functionality with fuse.js, design library with Geist UI and NextJS.
-  - Implemented backed with Redis to cache latest jobs, Postgres to store user data and Nodejs / Pupputeer to scrap Indeed job board.
-  - Deployed front-end on Vercel and back-end on Railway.
 
-### Markdown editor <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"></img> <img src="https://simpleicons.org/icons/sass.svg" alt="nodejs" height="20px"/>  
-<kbd>https://min.kndwin.dev</kbd> <kbd><img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/min</kbd>
-  - Built with Nextjs and implemented authentication with next-auth.js (Github OAuth and on-premise credentials).
-  - Incorporated SimpleMDEditor, ReactMarkdown and react-syntax-highlighting to create editor/preview experience.
+### Linear clone 
+- Link: https://linear-clone-with-dexiejs.vercel.app
+- Source: https://github.com/kndwin/solaces
+- Implemented database on the browser technology which has <100ms write and read speeds (no network round trips)
+- Used `xstate` extensively to handle keyboard shortcuts 
+
+### Real time retro
+- Link: https://teamstro.vercel.app
+- Source: https://github.com/kndwin/teamstro
+- Implemented pub/sub architecture with Ably and leader-follower distrubuted network between browsers.
+
+### PDF highlighter <kbd>https://higher-up.vercel.app</kbd>
+- Link: https://higher-up.vercel.app
+- Source: https://github.com/kndwin/higher
+- Implemented recursive file structure with drag-and-drop using dnd-kit
+- Implemented PDF annotator using `pdf.js`
 
 ## Others
-- Good at Tetris Battle.
-- Currently studying for LFCS and CKA.
+- Really Really Good at Tetris Battle.
 - Love drinking cold drip coffee.
--  Built resume with 
-<kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/resume </kbd> with markdown from  <kbd> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="10px"/> kndwin/kndwin </kbd>
+- Always building something (ask me!)
