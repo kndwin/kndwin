@@ -5,88 +5,70 @@
   <kbd> **Phone:** 0421606978 </kbd>
 
 ## Toolbox
-- **Front-end:** 
-  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="sass" height="15px"/> TailwindCSS
-  <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" height="15px"/> TypeScript
-  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React
-  <img src="https://simpleicons.org/icons/react.svg" alt="react" height="15px"/> React Native
-  <img src="https://simpleicons.org/icons/expo.svg" alt="react" height="15px"/> Expo
-  <img src="https://simpleicons.org/icons/reactquery.svg" alt="react" height="15px"/> React Query
-  <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="15px"/> Nextjs
-- **Back-end:** 
-  <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="15px"/> Node
-  <img src="https://simpleicons.org/icons/express.svg" alt="express" height="15px"/> Express
-  <img src="https://simpleicons.org/icons/trpc.svg" alt="trpc" height="15px"/> tRPC
-  <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgres" height="15px"/> Postgres
-  <img src="https://simpleicons.org/icons/graphql.svg" alt="graphql" height="15px"/> GraphQL
-  <img src="https://simpleicons.org/icons/prisma.svg" alt="graphql" height="15px"/> Prisma
-- **Others**: 
-  <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="15px"/> AWS
-  <img src="https://simpleicons.org/icons/git.svg" alt="git" height="15px"/> Git
-  <img src="https://simpleicons.org/icons/githubactions.svg" alt="githubaction" height="15px"/> Github Action
-  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="15px"/> Linux
-  <img src="https://simpleicons.org/icons/threedotjs.svg" alt="git" height="15px"/> Three.js
+- Front-end: TailwindCSS, TypeScript, React, React Native, Expo, React Query, Nextjs.
+- Back-end: Node, Express, tRPC, Postgres, GraphQL, Prisma, SQL.
+- Others: AWS (Lambda, EC2, RDS), Git, Github Action, Linux.
 
 ## Work experience
-### Mirvac - Front-end Engineer (Jan 2022 - Current)
-- Led the effort to ensure testing of RBAC protected API's to be pushed to production
-- Maintain and extend web app using react-query, Material UI, zustand, Typescript 
-- Improved CI/CD by updating Github Actions and advocating for trunk-based gitflow.
-- Upskilled in React Native / Expo and helped with the flagship mobile app.
+### Mirvac - Senior Front-end Engineer (Jan 2022 - Current)
+- Successfully maintain Vite React application, utilizing react-query, Material UI, Tailwind, Zustand, OpenAPI and TypeScript.
+- Assisted in React Native application using Typescript, react-query, OpenAPI, Expo (ejected) and 
+- Designed and implemented robust branching, release, and deployment strategies to support scalability and efficiency.
+- Implemented end-to-end testing using Playwright framework to ensure comprehensive test coverage and improve application quality.
+- Thoroughly documented existing processes and authored Request for Comments (RFCs) to improve processes.
+- Developed a ChatGPT-like interface within a tight deadline of one day, demonstrating ability to deliver under pressure.
+- Provided technical guidance and consultation to external teams, offering expertise in front-end development and assisting in proof-of-concept (POC) development.
+- Fostered effective collaboration with back-end engineers to facilitate seamless system design and successful implementation of new features.
+- Collaborated with business and designers to gather requirements, effectively managing and negotiating expectations.
 
-### Atelier - Full-stack Developer (Aug 2021 - Jan 2022) <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/graphql.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/sass.svg" alt="sass" height="20px"/>
-- Built out front-end using reuseable components, SASS and Apollo client.
-- Built out backend using Prisma, Nexus and Apollo server to ensure CRUD operations.
-- Built Cypress end-to-end testing and integrating with Circle CI to ensure testing on every branch push.
-- Built Slack-like messaging system using Graphql subscriptions and Postgres pubsub system.
-- Migrating current Postgres database to AWS to ensure more control and better uptime.
+### Atelier - Full-stack Developer (Aug 2021 - Jan 2022)
+- Enhanced the front-end by developing reusable components using SASS and Apollo Client, resulting in improved code maintainability and enhanced user experience.
+- Implemented a robust backend infrastructure using Prisma, Nexus, and Apollo Server, ensuring seamless CRUD operations and optimal performance.
+- Established a comprehensive end-to-end testing framework using Cypress and integrated it with Circle CI, enabling automated testing on every branch push and enhancing code quality.
+- Designed and developed a sophisticated messaging system with GraphQL subscriptions and a Postgres pub/sub system, delivering real-time communication capabilities similar to Slack.
+- Led the migration of the existing Postgres database to AWS, leveraging the cloud platform's capabilities to enhance control, scalability, and uptime, ensuring a more robust and reliable database infrastructure.
 
-### Appian - Solution Engineer (Jan 2020 - Jul 2021) <img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="git" height="20px"/> <img src="https://simpleicons.org/icons/gnubash.svg" alt="linux" height="20px"/>
-- Resolved support cases that touches everything Appian.
-- **Appian's stack**: Application servers (Tomcat, JBoss), Web servers (IIS, Apache), RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, Integrations with Appian.
-- **Other**: AWS Cloud architecture, Networking/VPN(ipsec), Linux (SSH/busybox tools), Accessibility issues (WCAG), Resource contentions (CPU/Memory/Threads).
+### Appian - Solution Engineer (Jan 2020 - Jul 2021)
+- Demonstrated expertise in supporting various components of the Appian stack, including application servers (Tomcat, JBoss), web servers (IIS, Apache), RDBMS (MySQL/Mariadb), Apache Kafka, Elasticsearch, and integrations with Appian.
+- Proficiently handled additional technologies such as AWS Cloud architecture, networking/VPN (IPsec), Linux (SSH/busybox tools), accessibility compliance (WCAG), and resource contention management (CPU/Memory/Threads).
 
 ## Other experience
-### Pitbull BSC - Front-end Developer (Mar 2021 - Current) <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/solidity.svg" alt="solidity" height="20px"/> <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" height="20px"/> <img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonaws" height="20px"/>  <kbd>https://pitbull.community</kbd>
-- Built Telegram price bot with NodeJS, AWS Gateway, AWS Lambda and SLS.
-- Building PitStop which ultilises Nextjs, ethersjs and web3modal to house all of future application efforts.
-- Building PitChart using GraphQL to BitQuery to displays OLHC data against time using react-financial-chart.
-
+### Pitbull BSC - Front-end Developer (Mar 2021 - Jan 2022)
+- Implemented a Telegram price bot using Node.js, AWS Gateway, AWS Lambda, and Serverless (SLS).
+- Developed PitStop, a Next.js application utilizing ethers.js and web3modal for future application efforts.
+- Built PitChart, a GraphQL-powered data visualization tool displaying OLHC data over time using react-financial-chart.
 ## Education and Certifications
-###  UNSW - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
-- Majored in **Mechatronics** and **Information Systems** (Credit average).
-- **Honours thesis** (Distinction): Integrating communication platforms between different operating systems.
+### University of New South Wales (UNSW) - Bachelor of Engineering (Honours) / Commerce (2014 - 2020)
+- Major: Mechatronics and Information Systems (Credit average).
+- Honours thesis (Distinction): Integration of communication platforms across different operating systems.
 
-### Amazon Web Service <img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonaws" height="20px"/>
-- Completed <kbd>AWS Deverloper Associate</kbd> certificate with a score of 905/1000.
+### Amazon Web Services
+- AWS Developer Associate Certification (Score: 905/1000)
 
-### FreeCodeCamp (2020-2021) <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="20px"/> <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="20px"/> <img src="https://simpleicons.org/icons/javascript.svg" alt="typescript" height="20px"/> <img src="https://simpleicons.org/icons/react.svg" alt="react" height="20px"/>  <img src="https://simpleicons.org/icons/redux.svg" alt="nextjs" height="20px"/>  <img src="https://simpleicons.org/icons/bootstrap.svg" alt="react" height="20px"/>  <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" height="20px"/> <img src="https://simpleicons.org/icons/express.svg" alt="express" height="20px"/> <img src="https://simpleicons.org/icons/mongodb.svg" alt="mysql" height="20px"/>
-- Completed **4 certificate**, each representing 300 hours of coursework.
-- **These include:** Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Libraries and APIs & Microservices
-
-<div style="page-break-before: always"></div>
-<div style="page-break-after: always"></div>
+### FreeCodeCamp (2020-2021)
+- Completed 4 certificates, each representing 300 hours of coursework:
+  - Responsive Web Design
+  - JavaScript Algorithms and Data Structures
+  - Front End Libraries
+  - APIs & Microservices
 
 ## Projects
 
-### Linear clone 
-- Link: https://linear-clone-with-dexiejs.vercel.app
-- Source: https://github.com/kndwin/solaces
-- Implemented database on the browser technology which has <100ms write and read speeds (no network round trips)
-- Used `xstate` extensively to handle keyboard shortcuts 
+### Linear Clone
+- Link: [Linear clone](https://linear-clone-with-dexiejs.vercel.app) - Source: [GitHub - Linear clone](https://github.com/kndwin/solaces)
+- Implemented browser-based database technology with <100ms write and read speeds (eliminating network round trips).
+- Utilized `xstate` extensively for efficient keyboard shortcut handling.
 
-### Real time retro
-- Link: https://teamstro.vercel.app
-- Source: https://github.com/kndwin/teamstro
-- Implemented pub/sub architecture with Ably and leader-follower distrubuted network between browsers.
+### Real-time Retro
+- Link: [Real-time retro](https://teamstro.vercel.app) - Source: [GitHub - Real-time retro](https://github.com/kndwin/teamstro)
+- Implemented a pub/sub architecture using Ably and established a leader-follower distributed network between browsers.
 
-### PDF highlighter <kbd>https://higher-up.vercel.app</kbd>
-- Link: https://higher-up.vercel.app
-- Source: https://github.com/kndwin/higher
-- Implemented recursive file structure with drag-and-drop using dnd-kit
-- Implemented PDF annotator using `pdf.js`
+### PDF Highlighter
+- Link: [PDF highlighter](https://higher-up.vercel.app) - Source: [GitHub - PDF highlighter](https://github.com/kndwin/higher)
+- Developed a recursive file structure with drag-and-drop functionality using dnd-kit.
+- Implemented a PDF annotator using `pdf.js`.
 
-## Others
-- Really Really Good at Tetris Battle.
-- Love drinking cold drip coffee.
-- Always building something (ask me!)
+## Additional Information
+- Proficient in Tetris Battle.
+- Enthusiast of cold drip coffee.
+- Constantly engaged in personal projects and building new things. Feel free to ask me more!
